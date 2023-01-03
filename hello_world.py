@@ -1,3 +1,3 @@
 print("Hello World!")
-print("Hello world feature")
+print("Hello from feature")
 pring("Hello from release")
